@@ -1,5 +1,5 @@
-# Logistic
-Dataset and code for logistic regression in R
+# Logistic Regression And Random Forest
+# Classification
 
 Model = Telecom Churn
 Model Validation = various methods
